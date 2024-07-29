@@ -1,6 +1,6 @@
 # pixel_diffusion_model
 
-#### Use a diffusion model to generate pixel images.
+#### Use a diffusion model to generate pixel art.
 
 ## How to run ?
 
