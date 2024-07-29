@@ -1,5 +1,7 @@
 # pixel_diffusion_model
 
+#### Use a diffusion model to generate pixel images.
+
 ## How to run ?
 
 #### Run the notebook to randomly generate pixel images.
