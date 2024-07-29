@@ -8,8 +8,12 @@
 
 ## Showcase
 
-<img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/apple.jpg" width="10%" height="10%">
-<img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/redmushroom.jpg" width="10%" height="10%">
-<img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/hat.jpg" width="10%" height="10%">
-<img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/key.jpg" width="10%" height="10%">
-<img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/human.jpg" width="10%" height="10%">
+<table>
+<tr style="border="10px" solid">
+<td><img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/apple.jpg"></td>
+<td><img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/redmushroom.jpg"></td>
+<td><img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/hat.jpg"></td>
+<td><img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/key.jpg"></td>
+<td><img src="https://github.com/Lanlul/pixel_diffusion_model/blob/main/human.jpg"></td>
+</tr>
+</table>
